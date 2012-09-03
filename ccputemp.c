@@ -68,9 +68,9 @@ static const char * const g_help_str =
 "-F, --fahrenheit	display temperature in degree Fahrenheit\n"\
 "-K, --kelvin		display temperature in degree Kelvin\n"\
 "\n"\
-"Visit http://github.com/ccputemp for more information.";
+"Visit https://github.com/ifoo/ccputemp for more information.";
 
-static const char * const g_version_str = "ccputemp v0.1 by Philip Pum (http://github.com/ccputemp)";
+static const char * const g_version_str = "ccputemp v0.1 by Philip Pum (https://github.com/ifoo/ccputemp)";
 
 static int g_ctrl_c_signal = 0;
 
